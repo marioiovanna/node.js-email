@@ -122,7 +122,7 @@ res.end("sent");
 });
 ```
 
-
+# Final Codes Examples
 In above code we have read GET variables send from HTML page and we have call “sendMail()” function using Transport object we have created above. In case there is any confusion here is a complete Server.js file.
 ```
 var express=require('express');
